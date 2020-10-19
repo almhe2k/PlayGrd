@@ -1,2 +1,2 @@
 Var msg = "Hello World!";
-Console.log(msg);
+Console.log(msg, msg);
