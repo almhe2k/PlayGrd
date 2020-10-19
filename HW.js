@@ -1,2 +1,2 @@
-Var msg = "Hello World!";
+Var msg = "Learning Github!";
 Console.log(msg, msg);
